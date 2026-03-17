@@ -1,0 +1,6 @@
+comandos git....
+git pull
+git  init
+git remoteadd origin  https://github.com/WinetDenysAjataEscobari/laboratorio-prueba.git
+git remote -v
+git pull
